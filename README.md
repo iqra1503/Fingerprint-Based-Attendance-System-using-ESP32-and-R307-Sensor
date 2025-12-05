@@ -172,9 +172,3 @@ This project demonstrates a complete simulation of a fingerprint attendance syst
 * ESP32 IoT guides and documentation
 
 ---
-
-## 📁 Project Maintainers
-
-* Md Abidur Rahman – 2110001
-* Sohayel Ahmed Shakkhor – 2110022
-* Jannatul Ferdous Iqra – 2110030
